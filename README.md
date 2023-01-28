@@ -2,6 +2,7 @@
 ## fluttertest4_webview
 
 WebView Sample - Flutter
+- 상단 타이틀(AppBar), Home Button 포함
 - IOS/ANDROID HTTP 설정 코드 포함
   - https://www.notion.so/IOS-Android-HTTP-855d9dde6f6d4d7c8b1a1b1de1851584
 
